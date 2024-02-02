@@ -1,4 +1,4 @@
-#Raccon - Programming language written on python.
+# **Raccon** - Programming language written on python.
 Syntaxis example:
 ```rust
 fn Function(a,b,c){
